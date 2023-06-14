@@ -17,3 +17,7 @@ p {
   line-height: 1.6;
   font-size: medium;
 }
+
+img {
+  size: 50px;
+}
