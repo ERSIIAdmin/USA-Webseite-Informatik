@@ -19,7 +19,8 @@ p {
 }
 
 #Golden-Gate-Bridge {
-  width: 300px;
+  width: 900px;
   height: auto;
   border: 1px solid #ccc;
+  align-items: center;
 }
