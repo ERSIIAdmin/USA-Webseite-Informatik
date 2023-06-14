@@ -20,8 +20,8 @@ p {
 }
 
 #Golden-Gate-Bridge {
-  width: 120px;
-  height: 60px;
+  width: 80;
+  height: 40px;
   border: 1px solid #ccc;
   align-items: center;
 }
@@ -29,4 +29,6 @@ p {
 #Grand-Canyon {
   width: 40px;
   height: 80px;
+  border: 1px solid #ccc;
+  align-items: center;
 }
