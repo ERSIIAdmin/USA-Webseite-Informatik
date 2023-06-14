@@ -19,11 +19,11 @@ h1 {
   margin-bottom: 20px;
 }
 
-p {
-  line-height: 1.6;
-  font-size: 25px;
-}
-
 h2 {
   text-decoration: underline;
+}
+
+p {
+  line-height: 1.6;
+  font-size: medium;
 }
